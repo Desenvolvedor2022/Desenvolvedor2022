@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @Desenvolvedor2022
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+Desenvolvedor2022/Desenvolvedor2022 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+Nome= str(input("Digite seu nome:"))
+Idade=float(input("Digite sua idade"))
+Print("OI {} tudo bem? ".format(Nome))
